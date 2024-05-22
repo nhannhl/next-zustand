@@ -35,7 +35,7 @@ export default function NewTodoDialog() {
     <Dialog>
       <DialogTrigger asChild>
         <Button variant='secondary' size='sm'>
-          ＋ Add New Todo
+          ＋ Add New Todo TEST AFTER BUILD
         </Button>
       </DialogTrigger>
       <DialogContent className='sm:max-w-[425px]'>
